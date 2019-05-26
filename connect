@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ssh -i /Users/abzal/Projects/abzal/abzal.pem ubuntu@3.17.251.95
+
+
